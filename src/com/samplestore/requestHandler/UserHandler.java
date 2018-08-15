@@ -8,7 +8,7 @@ public class UserHandler {
 	@GET
 	public void getUser()
 	{
-		
+		System.out.println("Inside getUser() method");
 	}
 	
 	@PUT
